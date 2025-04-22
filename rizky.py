@@ -17,8 +17,8 @@ R = "\033[31m"    # Red
 C = "\033[36m"    # Cyan
 
 
-os.system("apt install Hapus termux lu 🤣🤣")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("apt install mpv")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -43,7 +43,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -68,7 +68,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -93,7 +93,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -118,7 +118,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -143,7 +143,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -168,7 +168,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -193,7 +193,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -218,7 +218,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -243,7 +243,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
@@ -268,7 +268,7 @@ C = "\033[36m"    # Cyan
 
 
 os.system("apt install mpv")
-os.system("mpv https://f.top4top.io/m_3399ah5fn0.mp3")
+os.system("mpv sound_sesatt.mp3")
 os.system("clear")
 def load(word):
         for char in word:
