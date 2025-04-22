@@ -533,4 +533,4 @@ os.system("clear")
 def load(word):
         for char in word:
                 print(char,end="")
-                sys.stdout.flush()                
+                sys.stdout.flush()
