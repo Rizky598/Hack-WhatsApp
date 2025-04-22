@@ -24,7 +24,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -50,7 +49,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -76,7 +74,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -102,7 +99,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -128,7 +124,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
- #!/usr/python
 
 
 import os,sys,time
@@ -154,7 +149,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -180,7 +174,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -206,7 +199,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
@@ -232,7 +224,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
- #!/usr/python
 
 
 import os,sys,time
@@ -258,7 +249,6 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
-#!/usr/python
 
 
 import os,sys,time
