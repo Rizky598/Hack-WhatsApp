@@ -275,6 +275,8 @@ def load(word):
                 print(char,end="")
                 sys.stdout.flush()
                 
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -298,6 +300,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
  import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -321,6 +326,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -344,6 +352,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -367,6 +378,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -390,6 +404,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
  import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -413,6 +430,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -436,6 +456,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -459,6 +482,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
@@ -482,6 +508,9 @@ def load(word):
         for char in word:
                 print(char,end="")
                 sys.stdout.flush()
+                
+                
+                
 import os,sys,time
 os.system("clear")
 BB = "\033[34;1m" # Blue light
